@@ -27,7 +27,7 @@ Planned architectural improvements include:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rizwanahmed109-beep/pacman-python.git
+   git clone https://github.com/RZ-Logic/pacman-python.git
 
 2. **Install dependencies**:
     ```bash
